@@ -5,7 +5,9 @@ The goal of this software is to let any analyst go deep on its own the PDF file.
 
 The main inspiration goes to the fantastic people behind Zynamics, and their excellent product, called PDF dissector.
 
-
+<p align="center">
+<img alt="Main window of IPA" src="data/screenshot.png" width="600">
+</p>
 
 ## Simplifying analysis of PDF files
 
