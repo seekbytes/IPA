@@ -1,0 +1,18 @@
+[package]
+name = "ipa"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.28.1"
+eframe = "0.28.1"
+env_logger = "0.11.5"
+rfd = "0.14.1"
+anyhow = "1.0.86"
+egui_extras = { version = "0.28.1", features = ["all_loaders"] }
+egui_graphs = "0.21.1"
+pdf = { git = "https://github.com/pdf-rs/pdf/" }
+flate2 = "1.0.32"
+log = "0.4.22"
+rand = "0.8.5"
+image = { version = "0.25.2", features = ["png"] }
